@@ -23,8 +23,9 @@ icon: glyphicon-heart
 ### 联系我
 
 * email：[newpunch@163.com](mailto:{{ site.email }})
+* 微博：[NewPunch](http://weibo.com/p/1005055605442603/home?from=page_100505&mod=TAB#place)
 * QQ：444386026
-* 知乎：[Punch New](http://www.zhihu.com/people/punch-new)
+* 知乎：[NewPunch](http://www.zhihu.com/people/punch-new)
 
 ---
 
