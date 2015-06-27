@@ -31,11 +31,11 @@ icon: glyphicon-heart
 
 ### 关于本站   
 Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+
 Blog comments powered by [多说](http://duoshuo.com/)
----
-
-Comment below to exchange link with me.  
 
 ---
+
+
 
 会常来更新！
