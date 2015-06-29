@@ -5,13 +5,14 @@ date:   2014-05-10 15:14:54
 categories: 杂
 ---
 This is my blog.
+
 This is a test page.
-```java
-class me{  
-	String Name, Language, MajorIn, Hobby;  
-	Name = “New Punch”  
-	Language = “Android && Java && Python && C++”  
-	MajorIn = "Pattern Recognition"  
-	Hobby = "Football && Basketball && Programming"  
-	}  
-```
+
+    class me{  
+    	String Name, Language, MajorIn, Hobby;  
+    	Name = “New Punch”  
+    	Language = “Android && Java && Python && C++”  
+    	MajorIn = "Pattern Recognition"  
+    	Hobby = "Football && Basketball && Programming"  
+    	}  
+    
