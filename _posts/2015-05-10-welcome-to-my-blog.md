@@ -8,11 +8,13 @@ This is my blog.
 
 This is a test page.
 
-    class me{  
-    	String Name, Language, MajorIn, Hobby;  
-    	Name = "New Punch"  
-    	Language = "Android && Java && Python && C++"  
-    	MajorIn = "Pattern Recognition"  
-    	Hobby = "Football && Basketball && Programming"  
+    public class me{  
+    	private String Name, Language, MajorIn, Hobby;
+    	public void init(){Name = "New Punch"  
+    		Language = "Android && Java && Python && C++"  
+    		MajorIn = "Pattern Recognition"  
+    		Hobby = "Football && Basketball && Programming"
+    		}  
+    	  
     	}  
     
