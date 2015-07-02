@@ -64,9 +64,11 @@ JSON值可以是：
 二者API文档是：[JSONObject](http://json.org/javadoc/org/json/JSONObject.html)，[JSONArray](http://json.org/javadoc/org/json/JSONArray.html)。
 
 JSONObject的文档中有这样一些话：
+
 >A JSONObject is an unordered collection of name/value pairs... A JSONObject constructor can be used to convert an external form JSON text into an internal form whose values can be retrieved with the get and opt methods, or to convert values into a JSON text using the put and toString methods. A get method returns a value if one can be found, and throws an exception if one cannot be found. An opt method returns a default value instead of throwing an exception, and so is useful for obtaining optional values.
 
 翻译如下:
+
 >一个JSONObject是一个无序的名称/值对集合。···一个JSONObject构造函数可以把外部形式的JSON文本转换成内部形式，其值可以通过get和opt方法检索出来，或将值转换为一个JSON文本通过使用PUT和toString方法。如果一个可以被发现，get方法返回一个值，如果不能找到，则抛出一个异常。一个opt方法可以返回一个默认值，而不是抛出一个异常，这样就可以获得可选的值。
 
 通过以下例子理解（摘自[这](http://www.cnblogs.com/xwdreamer/archive/2011/12/16/2296904.html)）：
