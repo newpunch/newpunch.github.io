@@ -7,7 +7,7 @@ icon: glyphicon-heart
 
 ### 关于我
 
-> 2016年我将步入找工作的大潮，希望做一个Android开发工程师。   
+> 希望成为一名Android开发工程师。   
 
 在校硕士研究生一枚，华北电力大学控制工程专业（模式识别方向），2016年毕业。   
 
@@ -23,7 +23,7 @@ icon: glyphicon-heart
 ### 联系我
 
 * email：[newpunch@163.com](mailto:{{ site.email }})
-* 微博：[NewPunch](http://weibo.com/p/1005055605442603/home?from=page_100505&mod=TAB#place)
+* 微博：[wo鹏程](http://weibo.com/2175012783/profile?rightmod=1&wvr=6&mod=personnumber)
 * QQ：444386026
 * 知乎：[NewPunch](http://www.zhihu.com/people/punch-new)
 
