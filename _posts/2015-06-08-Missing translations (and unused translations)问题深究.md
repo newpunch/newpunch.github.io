@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ""Error XXX is not translated in rm (Romansh) [MissingTranslation]"问题"
-date:   2015-06-08 22:42:22
-categories: android
+title:  "Missing translations (and unused translations)问题深究"
+date:   2015-06-08 20:49:28
+categories: Android
 ---
 
 * content
